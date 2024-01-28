@@ -1,4 +1,4 @@
-# tic_tac_toe_ia
+
 Il s’agit d’implémenter le jeu TIC-TAC-TOE en utilisant la procédure Min-Max. Deux joueurs jouent ayant chacun pour but d’aligner ses jetons sur un échiquier 3x3
 <br><br>
 ![Annotation 2022-06-06 094412](https://user-images.githubusercontent.com/62157910/172117958-31ce9b74-4a03-4967-bc5c-45b312ec073c.png)
